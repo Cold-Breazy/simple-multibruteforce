@@ -26,7 +26,7 @@ Simple-multibruteforce is a python based script which is officially made for Bru
 
 ## INSTALLATION [Termux] :
 
-* ` https://github.com/Cold-Breazy/simple-multibruteforce `
+* ` git clone https://github.com/Cold-Breazy/simple-multibruteforce `
 * ` cd simple-multibruteforce `
 * ` pip install -r requirements.txt `
 * ` python mbf.py ` 
