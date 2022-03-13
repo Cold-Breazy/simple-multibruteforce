@@ -1,0 +1,6 @@
+mechanize
+requests
+bs4
+futures
+ThreadPool
+colorama
