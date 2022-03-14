@@ -1,6 +1,6 @@
 ## ABOUT TOOL :
 
-Simple-multibruteforce is a python based script which is officially made for Bruteforcing Facebook Accounts without Wordlist. This tool works on both rooted Android 
+Simple-multibruteforce is a python based script which is officially made for Bruteforcing Facebook Accounts without Wordlist. This tool works on both rooted Android Device and non Rooted ! 
 
 ## Tool Screenshot
 
